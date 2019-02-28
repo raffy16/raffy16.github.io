@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+body
+        {
+            background-image: url(kids.jpg);
+            background-size: cover;
+            background-attachment: scroll;
+            }
+.content
+{
+ font-family: 'Permanent Marker', cursive;
+    font-size: 60;
+    color: beige;
+}
+  .a
+{
+    color: red;
+    border: solid white;
+        
+}
+
+
+    
+
+    
+
